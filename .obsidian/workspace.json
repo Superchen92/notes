@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "18e1d396e11bd9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0552baeca57caa25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8761fb200154c68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2f5506b20f61d64",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b8729514493eb62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f55986251c5c43e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51c4b85f370fdd31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eeb310335084b712",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b4af06423d6018e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d35b251639385d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4704e31a49f8665b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/对象中的toString、valueOf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "89b09c01d77fe74f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/对象中的toString、valueOf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9831bbeac9af167",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28e8ab356c678e30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/对象中的toString、valueOf.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f55986251c5c43e4",
+  "lastOpenFiles": [
+    "JavaScript/call、apply、bind.md",
+    "JavaScript/对象中的toString、valueOf.md",
+    "JavaScript/Async 和 Await.md",
+    "浏览器/Cookie、Session 区别.md",
+    "CSS/table实现单双格不同颜色.md",
+    "浏览器/WebStorage.md",
+    "未命名.canvas",
+    "未命名.md",
+    "VUE/Computed与Watch的区别.md",
+    "浏览器",
+    "VUE",
+    "CSS",
+    "JavaScript"
+  ]
+}
