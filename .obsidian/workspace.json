@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0552baeca57caa25",
+        "id": "41b521be86e826e7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8761fb200154c68",
+            "id": "e6c2e53e824f1096",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/对象中的toString、valueOf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/对象中的toString、valueOf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript/对象中的toString、valueOf.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,13 +138,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f55986251c5c43e4",
+  "active": "e6c2e53e824f1096",
   "lastOpenFiles": [
+    "CSS/元素居中的几种方式.md",
+    "CSS/table实现单双格不同颜色.md",
     "JavaScript/call、apply、bind.md",
     "JavaScript/对象中的toString、valueOf.md",
     "JavaScript/Async 和 Await.md",
     "浏览器/Cookie、Session 区别.md",
-    "CSS/table实现单双格不同颜色.md",
     "浏览器/WebStorage.md",
     "未命名.canvas",
     "未命名.md",
